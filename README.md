@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumeet Patokar</h1>
-<h3 align="center">Passionate data scientist dedicated to unlocking insights and driving innovation through the power of data. Leveraging advanced analytical techniques and machine learning algorithms</h3>
+<h3 align="center">Analytical, Insightful, Innovative.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeet7620&label=Profile%20views&color=0e75b6&style=flat" alt="sumeet7620" /> </p>
@@ -9,6 +9,8 @@
 - 💬 Ask me about **Python , SQL**
 
 - 📫 How to reach me **sumeet.patokar@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/sumeet-patokar-014006208]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
